@@ -2,9 +2,9 @@
 
 Hello and welcome, these are our assignments for the Cloud Engineer role.
 
-In order to proceed with the interview, we would like you to pick just **one** of the below and follow the instructions.
+In order to proceed with the interview, we would like you to pick just **one** of the below options and follow the instructions.
 
-These are designed to be completed within a short time frame, you will be judged on your ability to communicate clearly and
+The options are designed to be completed within a short time frame, you will be judged on your ability to communicate clearly and
 the quality of your implementation design. We will not be judging formatting, so really focus on the content (text, images and graphs) more than presentation.
 
 The implementation design should include at minimum these parts:
@@ -13,9 +13,9 @@ The implementation design should include at minimum these parts:
 - Rough steps required to fulfill it
 - An explanation of why you chose this design and why it was the best one
 - If there are multiple options, a user friendly description of the pros / cons of each option
-- _Bonus:_ Provide an Infrastructure as Code implementation of your solution (Examples, Cloud Formation, Azure Resource Manager, Terraform, Anisable, Pulumi, etc)
+- _Bonus:_ Provide an Infrastructure as Code implementation of your solution (Examples, Cloud Formation, Azure Resource Manager, Terraform, Anisable, Pulumi, Chef, Puppet, etc)
 
-If you are unsure which Option to pick, Option 2 is the best default choice
+If you are unsure which Option to pick, Option 2 is the best default choice.
 
 ## Option 1 🏂 Lift and Shift
 
@@ -53,7 +53,7 @@ We will act as the customer in this scenario and will be unable to give you any 
 
 Additionally, they are going to be rolling out Office 365 for all staff and this will become the primary location for all collaboration and file sharing
 
-The new office has no networking setup currently
+The new office currently has no networking setup.
 
 ### Inventory
 
@@ -69,6 +69,7 @@ The new office has no networking setup currently
   - Running Microsoft Server 2008R2 & Active Directory
 - 10Mbps down / 10Mbps up TPG Internet
 - Cisco SG110-16 (16 port gigabit, unmanaged, poe)
+- UniFI UAP (Wireless AP)
 - 10x Microsoft Surface Pro 2's, 4GB/128GB
 
 **New Office**
@@ -77,7 +78,7 @@ The new office has no networking setup currently
 
 ### Budget
 
-IT Budget for the financial year is \$30,000
+- IT Budget for the financial year is \$30,000
 
 ### Objectives
 
@@ -85,7 +86,7 @@ The customer is reasonably knowledgeable of their IT inventory but do not know e
 
 They also need help in migrating to Office 365 from their existing setup
 
-NOTE: There's still some key questions required to be answered for this to work well, make sure to read the scenarios and inventory thoroughly and pretend `Example Co` a real business
+_Note:_ There's still some key questions required to be answered for this to work well, make sure to read the scenarios and inventory thoroughly and pretend `Example Co` is a real business.
 
 ## Option 3 🏓 True Cloud Solution
 
@@ -104,7 +105,7 @@ The users are mostly in Australia
 
 ### Budget
 
-- No more than \$1000/m
+- No more than \$1000/m for Azure / AWS
 
 ### Objectives
 

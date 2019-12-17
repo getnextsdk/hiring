@@ -19,11 +19,11 @@ If you are unsure which Option to pick, Option 2 is the best default choice
 
 ## Option 1 🏂 Lift and Shift
 
-#### Scenario
+### Scenario
 
 `Example Co` have been hearing all about the benefits of the ☁cloud☁ lately. They have an aging internal infrastructure and no IT staff to run it. They do not know much about their infrastructure.
 
-#### Inventory
+### Inventory
 
 **Melbourne**
 
@@ -35,11 +35,11 @@ If you are unsure which Option to pick, Option 2 is the best default choice
 - 1x server
 - 10 staff
 
-#### Budget
+### Budget
 
 - No more than \$1,000/m
 
-#### Objectives
+### Objectives
 
 The customer in this scenario doesn't have much knowledge of their infrastructure. So this will allow you to showcase your ability to gather information from the customer and consult with them to craft the best solution with limited information by _asking the right questions_
 
@@ -47,7 +47,7 @@ We will act as the customer in this scenario and will be unable to give you any 
 
 ## Option 2 🚴 New Office
 
-#### Scenario
+### Scenario
 
 `Example Co` have been rapidly expanding and they are moving to a new office. They are going to purchase brand new hardware to kit out the new office. Unfortunately, only the newly starting staff are going to the new office. Everyone else is still going to be working from the old office 😢.
 
@@ -55,7 +55,7 @@ Additionally, they are going to be rolling out Office 365 for all staff and this
 
 The new office has no networking setup currently
 
-#### Inventory
+### Inventory
 
 **Old Office**
 
@@ -75,11 +75,11 @@ The new office has no networking setup currently
 
 - 10 staff
 
-#### Budget
+### Budget
 
 IT Budget for the financial year is \$30,000
 
-#### Objectives
+### Objectives
 
 The customer is reasonably knowledgeable of their IT inventory but do not know enough to make the best decisions in terms of choosing an internet provider, networking or hardware for PCs.
 
@@ -89,7 +89,7 @@ NOTE: There's still some key questions required to be answered for this to work 
 
 ## Option 3 🏓 True Cloud Solution
 
-#### Scenario
+### Scenario
 
 `Example Co` have a team of developers creating an application which uses blob storage (AWS S3 / Azure Blob Storage) and a PostgreSQL database
 
@@ -97,16 +97,16 @@ The software can handle up to 100 concurrent users per 1GB or so
 
 The users are mostly in Australia
 
-#### Inventory
+### Inventory
 
 - The Software
 - An AWS / Azure account
 
-#### Budget
+### Budget
 
 - No more than \$1000/m
 
-#### Objectives
+### Objectives
 
 The solution must be able to scale based on user load and must be monitored. The ideal goal is to have 99.995% uptime. Security should be considered, if there's nothing indicating thoughts on security that will be an automatic failure
 

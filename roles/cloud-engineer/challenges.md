@@ -70,7 +70,7 @@ The new office currently has no networking setup.
 - 10Mbps down / 10Mbps up TPG Internet
 - Cisco SG110-16 (16 port gigabit, unmanaged, poe)
 - UniFI UAP (Wireless AP)
-- 10x Microsoft Surface Pro 2's, 4GB/128GB
+- 10x Microsoft Surface Pro 2's, 4GB/128GB (bought in 2014)
 
 **New Office**
 
@@ -94,7 +94,7 @@ _Note:_ There's still some key questions required to be answered for this to wor
 
 `Example Co` have a team of developers creating an application which uses blob storage (AWS S3 / Azure Blob Storage) and a PostgreSQL database
 
-The software can handle up to 100 concurrent users per 1GB or so
+The software can handle up to 100 concurrent users per 1GB of memory or so
 
 The users are mostly in Australia
 
@@ -109,6 +109,8 @@ The users are mostly in Australia
 
 ### Objectives
 
-The solution must be able to scale based on user load and must be monitored. The ideal goal is to have 99.995% uptime. Security should be considered, if there's nothing indicating thoughts on security that will be an automatic failure
+The solution must be able to scale based on user load and must be monitored. The ideal goal is to have 99.995% uptime. Security should be considered, if there's nothing indicating thoughts on security that will be an automatic failure.
+
+If new requirements are required from the application in order for it to scale, they can be accommodated by thd development team, but they must be known and included in the solution.
 
 _Bonus:_ Also provide a solution to allow updates to the application (safe to make assumptions about steps required to update the application)

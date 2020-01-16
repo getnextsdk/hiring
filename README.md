@@ -5,3 +5,4 @@ This repository will slowly add in all of our public documents relating to hirin
 ## Role Challenges
 
 1. [Cloud Engineer](roles/cloud-engineer/challenges.md)
+1. [Salesforce Consultant](roles/salesforce-consultant/challenges.md)

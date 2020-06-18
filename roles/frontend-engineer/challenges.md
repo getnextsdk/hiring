@@ -11,10 +11,10 @@ The implementation should include at minimum these parts:
 - Instructions to set up and run the application
 - Explanation of all dependencies, why they are included and how they are used
 
-
 ## Option 1 🏂 To Do App
 
 ## Scope
+
 We are wanting to make a local To Do app and deploy it to all of our customers. They should be able to create a To Do list on their device, and it should remember all of their To Do's
 
 The application should be able to do the following core functions:

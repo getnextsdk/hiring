@@ -10,6 +10,7 @@ The implementation should include at minimum these parts:
 
 - Instructions to set up and run the application
 - Explanation of all dependencies, why they are included and how they are used
+- The code used should be of "production" level quality, so things like comments, readable code and abstractions should be used where appropriate
 
 ## Option 1 🏂 Slack Bot Game
 
